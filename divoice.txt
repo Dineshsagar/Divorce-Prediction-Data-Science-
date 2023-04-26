@@ -2,7 +2,7 @@ Divorce Prediction data set has 54 questions and have answers in the scale of 1 
 Output predition is Divorce Yes/No
 
 
-****QUESTIONS*********
+****QUESTIONS******
 
 1. If one of us apologizes when our discussion deteriorates, the discussion ends.
 2. I know we can ignore our differences, even if things get hard sometimes.
@@ -35,7 +35,7 @@ Output predition is Divorce Yes/No
 29. I know my spouse very well.
 30. I know my spouse's friends and their social relationships.
 31. I feel aggressive when I argue with my spouse.
-32. When discussing with my spouse, I usually use expressions such as ‘you always’ or ‘you never’ .
+32. When discussing with my spouse, I usually use expressions such as â€˜you alwaysâ€™ or â€˜you neverâ€™ .
 33. I can use negative statements about my spouse's personality during our discussions.
 34. I can use offensive expressions during our discussions.
 35. I can insult my spouse during our discussions.
